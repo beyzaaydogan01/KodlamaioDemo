@@ -1,0 +1,7 @@
+C:\Users\aydog\Desktop\netFramework\KodlamaioDemo\KodlamaioDemo\bin\Debug\KodlamaioDemo.exe.config
+C:\Users\aydog\Desktop\netFramework\KodlamaioDemo\KodlamaioDemo\bin\Debug\KodlamaioDemo.exe
+C:\Users\aydog\Desktop\netFramework\KodlamaioDemo\KodlamaioDemo\bin\Debug\KodlamaioDemo.pdb
+C:\Users\aydog\Desktop\netFramework\KodlamaioDemo\KodlamaioDemo\obj\Debug\KodlamaioDemo.csproj.AssemblyReference.cache
+C:\Users\aydog\Desktop\netFramework\KodlamaioDemo\KodlamaioDemo\obj\Debug\KodlamaioDemo.csproj.CoreCompileInputs.cache
+C:\Users\aydog\Desktop\netFramework\KodlamaioDemo\KodlamaioDemo\obj\Debug\KodlamaioDemo.exe
+C:\Users\aydog\Desktop\netFramework\KodlamaioDemo\KodlamaioDemo\obj\Debug\KodlamaioDemo.pdb
